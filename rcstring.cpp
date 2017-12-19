@@ -5,7 +5,7 @@ int main()
 	rcstring a,b,c;
 	a="10";
 	b="ALA ma kota";
-	cout << a << " " << b << endl; // 10 ala ma ma kota
+	cout << a << " " << b << endl; // 10 ala jkfnvsfjvnsjkfjnsma ma kota
 	c=a+b;
 	cout << c<<endl; // 10ala ma kota
 	c=a+rcstring(" ")+b;
